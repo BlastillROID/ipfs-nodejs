@@ -1,0 +1,33 @@
+{
+  "name": "nodejs-ipfs",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "ipfs-http-client": "^41.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "author": "Mounir Missaoui",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlastillROID/ipfs-nodejs.git"
+  },
+  "keywords": [
+    "ipfs",
+    "nodejs",
+    "decentralized",
+    "blockchain"
+  ],
+  "bugs": {
+    "url": "https://github.com/BlastillROID/ipfs-nodejs/issues"
+  },
+  "homepage": "https://github.com/BlastillROID/ipfs-nodejs#readme",
+  "description": ""
+}
